@@ -1,0 +1,22 @@
+export const QUESTIONS = [
+  {q:'Which planet is known as the Red Planet?',a:['Venus','Mars','Jupiter','Mercury'],correct:1},
+  {q:'What is the largest ocean on Earth?',a:['Atlantic','Indian','Pacific','Arctic'],correct:2},
+  {q:'How many sides does a hexagon have?',a:['Five','Six','Seven','Eight'],correct:1},
+  {q:'Which gas do plants absorb for photosynthesis?',a:['Oxygen','Helium','Carbon dioxide','Nitrogen'],correct:2},
+  {q:'What is the capital city of Japan?',a:['Seoul','Kyoto','Osaka','Tokyo'],correct:3},
+  {q:'What does HTML stand for?',a:['HyperText Markup Language','High Tech Machine Logic','Home Tool Markup Language','Hyperlink Text Module List'],correct:0},
+  {q:'Which animal is the fastest on land?',a:['Lion','Cheetah','Horse','Greyhound'],correct:1},
+  {q:'What is 12 × 8?',a:['88','96','108','84'],correct:1},
+  {q:'Which instrument usually has 88 keys?',a:['Guitar','Violin','Piano','Flute'],correct:2},
+  {q:'Which continent is Brazil in?',a:['Africa','Europe','South America','Asia'],correct:2},
+  {q:'What is water’s chemical formula?',a:['CO2','H2O','O2','NaCl'],correct:1},
+  {q:'Which color is made by mixing blue and yellow paint?',a:['Green','Purple','Orange','Red'],correct:0},
+  {q:'Which is the smallest prime number?',a:['0','1','2','3'],correct:2},
+  {q:'What is the freezing point of water at sea level in Celsius?',a:['0°C','10°C','32°C','100°C'],correct:0},
+  {q:'Which organ pumps blood around the body?',a:['Liver','Heart','Lung','Kidney'],correct:1},
+  {q:'Which language is primarily spoken in Brazil?',a:['Spanish','French','Portuguese','Italian'],correct:2},
+  {q:'What is the square root of 81?',a:['8','9','10','11'],correct:1},
+  {q:'What is the biggest mammal?',a:['Elephant','Blue whale','Giraffe','Hippopotamus'],correct:1},
+  {q:'Which is a programming language?',a:['Banana','Python','Pyramid','Pluto'],correct:1},
+  {q:'How many minutes are in two hours?',a:['60','90','120','180'],correct:2}
+];
